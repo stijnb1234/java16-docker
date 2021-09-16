@@ -1,4 +1,4 @@
-FROM        eclipse-temurin:16-jd
+FROM        eclipse-temurin:16-jdk
 
 LABEL       author="Stijn Bannink" maintainer="stijn.bannink@hostvalues.net"
 
